@@ -1,0 +1,14 @@
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.AssemblyInfoInputs.cache
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.AssemblyInfo.cs
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.csproj.CoreCompileInputs.cache
+e:\new\lab1\lab12\bin\Debug\net10.0\lab12.exe
+e:\new\lab1\lab12\bin\Debug\net10.0\lab12.deps.json
+e:\new\lab1\lab12\bin\Debug\net10.0\lab12.runtimeconfig.json
+e:\new\lab1\lab12\bin\Debug\net10.0\lab12.dll
+e:\new\lab1\lab12\bin\Debug\net10.0\lab12.pdb
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.dll
+e:\new\lab1\lab12\obj\Debug\net10.0\refint\lab12.dll
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.pdb
+e:\new\lab1\lab12\obj\Debug\net10.0\lab12.genruntimeconfig.cache
+e:\new\lab1\lab12\obj\Debug\net10.0\ref\lab12.dll
